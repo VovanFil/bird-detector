@@ -1,0 +1,4 @@
+ultralytics>=8.4.0
+opencv-python>=4.8
+# Only needed for prepare_dataset.py (Open Images download)
+fiftyone>=1.0
